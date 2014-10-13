@@ -2,9 +2,6 @@ development:
       host: localhost
       adapter: mysql
       database: fedena_ultimate
-      port: 3306
-      username: root
-      password: foradian
 
 test: &test
       host: localhost
